@@ -2,37 +2,31 @@
 金科双向机器人系统
 ===============
 
-当前最新版本： v.1.0（发布日期：2024-03-19） 
+当前最新版本： v.1.0（发布日期：2024-03-20） 
 
 
-[![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/zhangdaiscott/jeecg-boot/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/zhangdaiscott/jeecg-boot.svg?style=social&label=Stars)](https://github.com/zhangdaiscott/jeecg-boot)
-[![GitHub forks](https://img.shields.io/github/forks/zhangdaiscott/jeecg-boot.svg?style=social&label=Fork)](https://github.com/zhangdaiscott/jeecg-boot)
+[![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/tnyi/clone-bot-backend/blob/main/LICENSE)
 
 
 
 项目介绍
 -----------------------------------
 
-金科双向机器人系统 是一款基于 jeecgboot 框架开发的电报机器人系统
+金科双向机器人系统 是一款基于 jeecgboot 框架开发的电报机器人系统，使用 telegrambots 库对接telegram接口。
 
 
 `宗旨是:` 实现一款灵活、强大的电报双向机器人管理系统！
-
-遇到技术问题，[请在这里反馈BUG](https://github.com/jeecgboot/jeecg-boot/issues/new)
-
-
-快速搭建开发环境
------------------------------------
-
-- [通过IDEA导入项目](https://help.jeecg.com/java/setup/idea.html)
-- [通过IDEA启动项目](https://help.jeecg.com/java/setup/idea/startup.html)
 
 
 技术支持
 -----------------------------------
 
-关闭gitee的issue通道，使用中遇到问题或者BUG可以在 [Github上提Issues](https://github.com/jeecgboot/jeecg-boot/issues/new)
+使用中遇到问题或者BUG可以在 [Github上提Issues](https://github.com/tnyi/clone-bot-backend/issues/new)
+
+作者的联系方式：
+- 邮件：tnyi@live.cn
+- 电报：[Frank Martinez](https://t.me/frankmartinez999)
+- 电报交流群：[金科双向机器人交流群](https://t.me/GOLD_CC_group)
 
 
 技术架构：
@@ -47,7 +41,7 @@
 
 - 缓存：Redis
 
-- 数据库脚本：MySQL5.7+  &  Oracle 11g & Sqlserver2017（其他数据库，[需要自己转](https://my.oschina.net/jeecg/blog/4905722)）
+- 数据库脚本：MySQL5.7+  &  Oracle 11g & Sqlserver2017
 
 
 #### 开发框架
